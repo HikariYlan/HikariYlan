@@ -33,7 +33,6 @@ Or on Discord, where I'm mostly active (when I don't have a class): [![Discord](
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=black&color=black&labelColor=%23fbfe50&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=black&color=black&labelColor=%2352de7c&style=for-the-badge)
-![DataGrip](https://img.shields.io/badge/DataGrip-000?logo=datagrip&logoColor=black&color=black&labelColor=%2325d38d&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
