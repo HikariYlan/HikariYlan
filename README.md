@@ -6,43 +6,48 @@ I'm a 20 years old french guy studying for a computer science degree.
 
 You can contact me on my pro email address: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:ylan.nicolas52600@gmail.com) 
 
-Or on Discord, where I'm mostly active (when I don't have a class): [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/387634828247564299)
+Or on Discord, where I'm mostly active (when I don't have a class): [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/YOUR_USER_ID)
 
 ## 💻 Technologies I use
 - **Languages** :
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/SHELL_SCRIPT-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C.svg?style=for-the-badge&logo=json&logoColor=white)
 
 - **Frameworks** :
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Symfony](https://img.shields.io/badge/SYMFONY-000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Discord.js](https://img.shields.io/badge/DISCORD.JS-5865F2?style=for-the-badge&logo=discorddotjs&logoColor=white)
 
 - **Databases** :
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MARIADB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/POSTGRESQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - **DevOps** :
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Composer](https://img.shields.io/badge/COMPOSER-885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 
 - **Tools** :
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=black&color=black&labelColor=%23fbfe50&style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=black&color=black&labelColor=%2352de7c&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoftaccess&logoColor=fff&style=for-the-badge)
+![PhpStorm](https://img.shields.io/badge/PHPSTORM-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WEBSTORM-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PYCHARM-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VISUAL_STUDIO_CODE-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GITLAB-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 - **OS** :
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/DEBIAN-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Statistiques Github](https://github-readme-stats.vercel.app/api/top-langs/?username=HikariYlan&theme=buefy&hide_border=true)  
 ![Profile Views](https://komarev.com/ghpvc/?username=hikariylan&base=68)
