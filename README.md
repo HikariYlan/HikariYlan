@@ -49,5 +49,4 @@ Or on Discord, where I'm mostly active (when I don't have a class): [![Discord](
 ![Debian](https://img.shields.io/badge/DEBIAN-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![Statistiques Github](https://github-readme-stats.vercel.app/api/top-langs/?username=HikariYlan&theme=buefy&hide_border=true)  
 ![Profile Views](https://komarev.com/ghpvc/?username=hikariylan&base=68)
