@@ -17,9 +17,8 @@ Or on Discord, where I'm mostly active (when I don't have a class): [![Discord](
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/SHELL_SCRIPT-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C.svg?style=for-the-badge&logo=json&logoColor=white)
 
-- **Frameworks** :
+- **Frameworks / Libraries** :
 ![NodeJS](https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Symfony](https://img.shields.io/badge/SYMFONY-000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
@@ -48,6 +47,9 @@ Or on Discord, where I'm mostly active (when I don't have a class): [![Discord](
 ![Linux](https://img.shields.io/badge/LINUX-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/DEBIAN-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+- **Minecraft datapacks/resourcepacks** :
+![JSON](https://img.shields.io/badge/JSON-5E5C5C.svg?style=for-the-badge&logo=json&logoColor=white)
 
 ![Statistiques Github](https://github-readme-stats-fast.vercel.app/api/top-langs?username=hikariylan&layout=compact&langs_count=8&card_width=320)  
 ![Profile Views](https://komarev.com/ghpvc/?username=hikariylan&base=68)
