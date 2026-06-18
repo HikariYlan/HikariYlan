@@ -4,7 +4,7 @@ My name is Ylan, also known as Hikari.
 
 I'm a 20 years old french guy studying for a computer science degree.
 
-You can contact me on my pro email address: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:ylan.nicolas52600@gmail.com) 
+You can contact me on my pro email address: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:hikariylandev@gmail.com) 
 
 Or on Discord, where I'm mostly active (when I don't have a class): [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/387634828247564299)
 
