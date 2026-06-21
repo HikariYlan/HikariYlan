@@ -17,6 +17,7 @@ Or on Discord, where I'm mostly active (when I don't have a class): [![Discord](
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/SHELL_SCRIPT-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GO](https://img.shields.io/badge/GO-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 - **Frameworks / Libraries** :
 ![NodeJS](https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
