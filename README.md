@@ -2,7 +2,7 @@
 
 My name is Ylan, also known as Hikari.
 
-I'm a 20 years old french guy with a computer science degree.
+I'm a 20 years old french madman (pleonasm) with a computer science degree and ADHD.
 
 You can contact me on my email address: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:hikariylandev@gmail.com) 
 
@@ -49,8 +49,7 @@ Or on Discord, where I'm mostly active (when I'm not working overtime to serve d
 ![Debian](https://img.shields.io/badge/DEBIAN-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-- **Minecraft datapacks/resourcepacks** :
-![JSON](https://img.shields.io/badge/JSON-5E5C5C.svg?style=for-the-badge&logo=json&logoColor=white)
+- **Misc** :
+![JSON](https://img.shields.io/badge/JSON-5E5C5C.svg?style=for-the-badge&logo=json&logoColor=white) (For Minecraft datapacks & resourcepacks)
 
 ![Statistiques Github](https://github-readme-stats-fast.vercel.app/api/top-langs?username=hikariylan&layout=compact&langs_count=8&card_width=320)  
-![Profile Views](https://komarev.com/ghpvc/?username=hikariylan&base=68)
