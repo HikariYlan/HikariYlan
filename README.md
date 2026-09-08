@@ -2,7 +2,7 @@
 
 My name is Ylan, also known as Hikari.
 
-I'm a 20 years old french madman (pleonasm) with a computer science degree and ADHD.
+I'm a 21 years old french madman (pleonasm) with a computer science degree and ADHD.
 
 You can contact me on my email address: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:hikariylandev@gmail.com) 
 
