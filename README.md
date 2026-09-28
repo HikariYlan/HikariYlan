@@ -6,7 +6,7 @@ I'm a 21 years old french madman (pleonasm) with a computer science degree and A
 
 You can contact me on my email address: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:hikariylandev@gmail.com) 
 
-Or on Discord, where I'm mostly active (when I'm not working overtime to serve drunk clients): [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/387634828247564299)
+Or on Discord, where I'm mostly active: [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/387634828247564299)
 
 ## 💻 Technologies I use
 - **Languages** :
